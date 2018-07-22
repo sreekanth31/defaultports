@@ -1,0 +1,17 @@
+ftp - 21
+ssh - 22
+telnet - 23
+smtp - 25
+DNS - 53
+http - 80
+https - 443
+LDAP - 389
+RDP - 3389
+oracle - 1521
+mysql - 3306
+mssql - 1433
+tomcat - 8080   AJP - 8009
+jboss - 9990
+sonarcube - 9000
+DB2 - 50000
+
