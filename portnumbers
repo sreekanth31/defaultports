@@ -5,7 +5,7 @@ smtp - 25
 DNS - 53
 http - 80
 https - 443
-LDAP - 389
+LDAP secure port is 636 and http port is 389
 RDP - 3389
 oracle - 1521
 mysql - 3306
