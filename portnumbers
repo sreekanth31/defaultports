@@ -15,3 +15,4 @@ jboss - 9990
 sonarcube - 9000
 DB2 - 50000
 splunk - 9997
+mongodb - 27017
